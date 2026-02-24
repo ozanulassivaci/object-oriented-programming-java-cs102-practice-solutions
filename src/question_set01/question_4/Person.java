@@ -1,4 +1,4 @@
-package src.question_set01.question_4;
+package question_set01.question_4;
 
 /*
 ================================================================================
